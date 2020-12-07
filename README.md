@@ -29,7 +29,9 @@ The significant disparity of wealth and income, especially in the United States,
 ![income.png](https://github.com/Naidanzheng/Final-Project/blob/Master/Image/income.png)
 
 ## Goals
+The first goal for this project it to determine whether a person makes over $50K a year by using Decision tree, SVM, Random Forest, Gaussian, and KNN, and compare their accuracy score to determine the best algorithm.
 
+The second goal for this project is to know if a good marital relationship is a key for earning more money.
 ## Motivation
 
 
@@ -54,3 +56,5 @@ Duration     : December 2020
 Last Update  : 12.7.2020
 </pre>
 ## Resource
+- <b>[Machine Learning Classification Algorithms](https://data-flair.training/blogs/machine-learning-classification-algorithms/)
+- <b>[Classification Algorithms in Machine Learning: How They Work](https://monkeylearn.com/blog/classification-algorithms/)
