@@ -31,7 +31,8 @@ The significant disparity of wealth and income, especially in the United States,
 The first goal for this project it to determine whether a person makes over $50K a year by using Decision tree, SVM, Random Forest, Gaussian, and KNN, and compare their accuracy score to determine the best algorithm.
 
 The second goal for this project is to know if a good marital relationship is a key for earning more money.
-## Motivation
+
+## Motivation & Background
 
 
 ## Data
