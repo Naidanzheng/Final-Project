@@ -26,6 +26,7 @@
 
 ## Overview
 The significant disparity of wealth and income, especially in the United States, is a huge concern. One legitimate explanation for reducing the world's increasing level of economic disparity is the possibility of declining poverty. The concept of basic moral equality guarantees sustainable growth and promotes a nation's economic stability. Governments in various countries have tried their best to tackle this issue and provide an optimal solution.This research aims to illustrate the use of techniques of machine learning and data mining in offering a solution to the problem of income equality. To that end, the UCI Adult Dataset was used. The classification was done to predict whether, based on a certain collection of characteristics, the annual income of an individual in the US falls into the income category of either greater than 50K Dollars or less equal to 50K Dollars. In this analysis, I have used five algorithms to predict the target variable: Decision tree, SVM, Random Forest, Gaussian, and KNN, and compare their accuracy score to determine the best algorithm.
+![income.png](https://github.com/Naidanzheng/Final-Project/blob/Master/Image/income.png)
 
 ## Goals
 
