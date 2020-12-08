@@ -41,8 +41,12 @@ The data for our study were accessed from the University of California Irvine (U
 ## Modeling
 
 ## Conclusion
+In this project, we found that income can be determined by a lot of factors, this dataset involves predicting personal income levels as above or below 50,000 dollars per year based on personal details such as relationship and education level. There are many more cases of incomes less than $50K than above 50,000 dollars, although the skew is not severe. We found that a good marital relationship is a key for earning more money, people who married have higher percentage of earning more than 50K each year.
+
+After comparing the accuracy score of these six models, we found that Random Forest Classifer is the best model to predict adult income by giving these variables.
 
 ## Future Work
+To derive even more accurate results, we'd like to expand the project with additional data, specifically 'Years'. Therefore, we will use the Time Series analysis to improve our model. Also, we can add 'parents' education level','Health' and 'Location' variables to analyze the relationships with adult income.
 
 ## Software Requirements
 <pre>
