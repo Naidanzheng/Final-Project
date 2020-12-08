@@ -45,6 +45,12 @@ From this graph, we can see that a good marital relationship is a key for earnin
 
 
 ## Modeling
+Supervised learning is an approach to creating artificial intelligence (AI), where the program is given labeled input data and the expected output results. The AI system is specifically told what to look for, thus the model is trained until it can detect the underlying patterns and relationships, enabling it to yield good results when presented with never-before-seen data.
+
+Supervised learning is good at classification and regression problems. In supervised learning, the aim is to make sense of data toward specific measurements.
+
+After looking at the data, I decid to use classification algorithms. A classification algorithm tries to determine the class or the category of the data it is presented with.
+
 The six algorithms that used in this project are:
 1. Logistic Regression.
 2. KNN.
