@@ -39,6 +39,15 @@ The distribution of income is extremely important for development as it affects 
 The data for our study were accessed from the University of California Irvine (UCI) Machine Learning Repository. It was actually extracted by Barry Becker using the 1994 census database. The data set includes figures on 48,842 different records and 14 attributes for 42 nations. The adult income dataset involves predicting personal income levels as above or below $50,000 per year based on personal details such as relationship and education level.  There are many more cases of incomes less than $50K than above $50K, although the skew is not severe.
 
 ## Modeling
+The six algorithms that used in this project are:
+1. Logistic Regression.
+2. KNN.
+3. Decision Tree.
+4. SVM.
+5. Random Forest.
+6. Decision Tree.
+7. Gaussian Naive Bayes.
+
 
 ## Conclusion
 In this project, we found that income can be determined by a lot of factors, this dataset involves predicting personal income levels as above or below 50,000 dollars per year based on personal details such as relationship and education level. There are many more cases of incomes less than $50K than above 50,000 dollars, although the skew is not severe. We found that a good marital relationship is a key for earning more money, people who married have higher percentage of earning more than 50K each year.
