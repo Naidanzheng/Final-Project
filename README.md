@@ -7,7 +7,7 @@
 ## Repo Content
 - <b>Data</b> - The raw dataset can be found on the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php). 
 - <b>[images](https://github.com/Naidanzheng/Final-Project/blob/Master/Image)</b> - Various plots and images used in the documents found in this repo.
-- <b>[DATA 602 Final Project.ipynb](https://github.com/Naidanzheng/DATA-602-Project-1/blob/main/DATA602%20Project%201.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
+- <b>[DATA 602 Final Project.ipynb](https://github.com/Naidanzheng/Final-Project/blob/Master/DATA%20602%20Final%20Project.ipynb)</b> - The main Jupyter Notebook containing the models and analysis for this project.
 - <b>[README.md](README.md)</b> - A description of the project goals, process, and results.
 
 ---
