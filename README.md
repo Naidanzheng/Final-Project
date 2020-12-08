@@ -54,6 +54,8 @@ The six algorithms that used in this project are:
 6. Decision Tree.
 7. Gaussian Naive Bayes.
 ![accuracy.png](https://github.com/Naidanzheng/Final-Project/blob/Master/Image/accuracy.png)
+The accuracy score of Random Forest Classifer is 85.8113 which is higher than accuracy scores of other models.
+Therefore, Random Forest Classifer is the best model to predict adult income by giving these varaibles.
 
 
 ## Conclusion
